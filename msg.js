@@ -1,5 +1,6 @@
 var MT = MT || {};
 MT.msg = {
+    
     /**
      * 弹出框节点
      * @property _el
